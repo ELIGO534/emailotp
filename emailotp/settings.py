@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ywd9rkk^#)cpb2oja0y!u@gjbv3$vqec14!-&u7(*2k%+)!zib
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['emailotp-xraz.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
